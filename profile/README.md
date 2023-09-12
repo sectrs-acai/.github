@@ -30,3 +30,4 @@ while maintaining performance and compatibility.
 ```
 
 https://github.com/sectrs-acai/acai/
+https://sectrs.ethz.ch/
