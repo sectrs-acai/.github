@@ -17,17 +17,6 @@ our approach while addressing several critical security gaps. Our experimental
 results on GPU and FPGA show that ACAI can achieve strong security guarantees
 while maintaining performance and compatibility.
 
-
-```
-@misc{sridhara2023acai,
-      title={ACAI: Extending Arm Confidential Computing Architecture Protection from CPUs to Accelerators}, 
-      author={Supraja Sridhara and Andrin Bertschi and Benedict Schlüter and Mark Kuhne and Fabio Aliberti and Shweta Shinde},
-      year={2023},
-      eprint={2305.15986},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
-}
-```
-
 https://github.com/sectrs-acai/acai/
+
 https://sectrs.ethz.ch/
