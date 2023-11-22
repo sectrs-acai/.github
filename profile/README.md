@@ -21,5 +21,5 @@ https://github.com/sectrs-acai/acai/
 
 https://sectrs.ethz.ch/
 
-Checkout our Usenix Security '24 paper: 
-https://www.usenix.org/conference/usenixsecurity24/presentation/sridhara
+Checkout our Usenix Security '24 paper [here](https://www.usenix.org/conference/usenixsecurity24/presentation/sridhara)
+
