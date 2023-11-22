@@ -20,3 +20,6 @@ while maintaining performance and compatibility.
 https://github.com/sectrs-acai/acai/
 
 https://sectrs.ethz.ch/
+
+Checkout our Usenix Security '24 paper: 
+https://www.usenix.org/conference/usenixsecurity24/presentation/sridhara
