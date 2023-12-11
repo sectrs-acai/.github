@@ -1,4 +1,4 @@
-# Protecting Accelerator Execution with Arm Confidential Computing Architecture
+<img src="https://github.com/sectrs-acai/acai/assets/2311941/60969033-76c2-408e-b07d-f70830f449a8" width="600">
 
 ## Abstract 
 Trusted execution environments in several existing and upcoming CPUs demonstrate
